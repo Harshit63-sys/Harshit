@@ -1,6 +1,3 @@
-from os import write
-
-from click import option
 from mysql.connector import connect
 import streamlit as st
 try:
